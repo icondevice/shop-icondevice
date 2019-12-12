@@ -1,12 +1,10 @@
-## Shopping Catalogue (Android only)<a href="https://icondevice.com"><img align="left" src="https://i.imgur.com/VEnOIUn.png" width="180px"></a>
+## Shopping Catalogue (Android only)<a href="https://icondevice.com"><img align="left" src="https://i.imgur.com/VEnOIUn.png" width="100px"></a>
 
 ---
 
 React native app built with [`react-native-firebase`](https://github.com/invertase/react-native-firebase) and [`mobx-state-tree`](https://github.com/mobxjs/mobx-state-tree)
 
 ---
-
-
 
 ### Getting Started
 
