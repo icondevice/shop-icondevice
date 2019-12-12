@@ -22,11 +22,11 @@ React native app built with [`react-native-firebase`](https://github.com/inverta
 - 2.1) Start the react native packager, run `npm start` from the root of your project.
 - 2.2) **[Android]** If you haven't already got an android device attached/emulator running then you'll need to get one running (make sure the emulator is with Google Play / APIs). When ready run `npm run android` from the root of your project.
 
-If all has gone well you'll see an initial screen like the one below.
+If all has gone well you'll see an app screen like the one below (after login).
 
 ## Screenshots
 
-![preview](https://i.imgur.com/4lG4HuS.png)
+![preview](https://i.imgur.com/hnYsYA3.mp4)
 
 ### License
 
