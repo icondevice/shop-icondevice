@@ -26,7 +26,7 @@ If all has gone well you'll see an app screen like the one below (after login).
 
 ## Screenshots
 
-![preview](https://i.imgur.com/hnYsYA3.mp4)
+![preview](https://github.com/icondevice/shop-icondevice/blob/master/assets/demo.gif)
 
 ### License
 
