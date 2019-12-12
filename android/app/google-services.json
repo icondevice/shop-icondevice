@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "756571324590",
+    "firebase_url": "https://shop-icondevice.firebaseio.com",
+    "project_id": "shop-icondevice",
+    "storage_bucket": "shop-icondevice.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756571324590:android:511c40584e651ac9d1ad3f",
+        "android_client_info": {
+          "package_name": "com.icondevice.shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "756571324590-oa8ue4k97duici4na8gqqetv2use2kk7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.icondevice.shop",
+            "certificate_hash": "7ef75a195717dc39fb51e19d2540566bdad6a7c4"
+          }
+        },
+        {
+          "client_id": "756571324590-o18bfbvfeaoh04ta092gt3m0co13a2mk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmtcfHd8nSqBFxwOslVXxCdC35QfF4Wpk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "756571324590-o18bfbvfeaoh04ta092gt3m0co13a2mk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
