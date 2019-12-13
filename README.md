@@ -2,7 +2,7 @@
 
 ---
 
-React native app built with [`react-native-firebase`](https://github.com/invertase/react-native-firebase) and [`mobx-state-tree`](https://github.com/mobxjs/mobx-state-tree). [`Why MST over redux?`](https://github.com/infinitered/ignite-bowser#why-this-stack)
+React native app built with [`react-native-firebase`](https://github.com/invertase/react-native-firebase) and [`mobx-state-tree`](https://github.com/mobxjs/mobx-state-tree). [Why MST over redux?](https://github.com/infinitered/ignite-bowser#why-this-stack)
 
 ---
 
