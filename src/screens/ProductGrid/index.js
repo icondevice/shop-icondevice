@@ -39,12 +39,13 @@ class ProductGrid extends Component {
 
   componentDidMount() {
     const { productStore } = this.props.store;
-    productStore.fetchList();
+    this.unsubscribe = productStore.fetchList();
   }
 
   componentWillUnmount(){
-    const { productStore } = this.props.store;
-    productStore.storeUnsubscribe();
+  //  const { productStore } = this.props.store;
+  //  productStore.storeUnsubscribe();
+    this.unsubscribe();
   }
 
   /*

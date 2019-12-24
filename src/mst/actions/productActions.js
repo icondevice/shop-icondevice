@@ -9,10 +9,10 @@ const productActions = self => ({
     self.productArray = [];
     self.loaderTrue();
    
-		this.unsubscribe = firebase.firestore().collection('products').where('Status', '==', true)
+		return unsubscribe = firebase.firestore().collection('products').where('Status', '==', true)
 			.onSnapshot( (querySnapshot) =>  {
         var list = [];
-        console.log('QUERYYYYY',querySnapshot.size)
+        //console.log('QUERYYYYY',querySnapshot.size)
         querySnapshot.forEach( (doc) => {
             //console.log('YYYYYYYY', doc.data())
             list.push({ ...doc.data(), id: doc.id });
@@ -22,10 +22,6 @@ const productActions = self => ({
         self.loaderFalse();
       });
      
-  },
-
-  storeUnsubscribe(){
-    this.unsubscribe();
   },
 
   addList(list) {
